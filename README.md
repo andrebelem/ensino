@@ -6,7 +6,7 @@ Este é o repositório de scripts, notas, pequenos programas, utilizados no ensi
 Quer saber mais ? 
  Acesse [Observatório Oceanográfico](http://www.observatoriooceanografico.uff.br) ou o site da [UFF](http://www.uff.br)
 Quer usar os códigos ?
-Link para nosso ![DOI](https://zenodo.org/badge/342919527.svg)](https://zenodo.org/badge/latestdoi/342919527)
+Link para nosso ![DOI](https://zenodo.org/badge/342919527.svg) ou (https://zenodo.org/badge/latestdoi/342919527)
 
 Licença MIT - Copyright (c) 2021 Andre Luiz Belem
 
@@ -19,7 +19,7 @@ This is the repository of scripts, notes, small programs, used in the teaching o
 Want to know more ?
   Access [Observatório Oceanográfico] (http://www.observatoriooceanografico.uff.br) or the website of [UFF](http://www.uff.br)
 Want to use the notebooks ?
-Link to our ![DOI](https://zenodo.org/badge/342919527.svg)](https://zenodo.org/badge/latestdoi/342919527)
+Link to our ![DOI](https://zenodo.org/badge/342919527.svg) ou (https://zenodo.org/badge/latestdoi/342919527)
 
 MIT License - Copyright (c) 2021 Andre Luiz Belem
 
